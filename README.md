@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything from Java, JS and PHP to UX Design
 - 📫 How to reach me: E-Mail: adamogris@outlook.at | ogris.adam@gmail.com
 - 😄 Pronouns: all/any
-- ⚡ Fun fact: I love Java Syntax but not Java and the other way around for JS
+- ⚡ Fun fact: Most of the time fun facts are neither fun nor funny.
 -    Instagram: @schneckify
 -    Discord: schneckify
 
